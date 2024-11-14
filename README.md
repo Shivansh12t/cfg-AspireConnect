@@ -39,7 +39,7 @@ Before you begin, ensure you have met the following requirements:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/AspireConnect.git
+    git clone https://github.com/shivansh12t/AspireConnect.git
     cd AspireConnect
     ```
 
